@@ -27,7 +27,8 @@ Our dataset features 18 globally distributed representative geological sites, co
 
 *(Here is the global distribution and multi-modal sample display of the MMG-5 dataset:)*
 
-<img width="2075" height="1456" alt="图2" src="[https://github.com/user-attachments/assets/2ea1f153-cd28-4c27-ad53-361c8c1d11d8](https://github.com/user-attachments/assets/2ea1f153-cd28-4c27-ad53-361c8c1d11d8)" />
+![Uploading 图2.png…]()
+
 
 ## 📚 Citation
 If you find the **MMG-5** dataset and the **SMS-Diff** framework useful for your research, please consider citing our paper (Currently under review; detailed citation will be updated upon acceptance):
